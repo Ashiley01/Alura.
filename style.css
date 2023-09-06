@@ -123,4 +123,40 @@ body{
         font-weight: 700;
         padding: 1em 0 0.5em 0;
         }
-           
+           .descricao-imagem{
+            width: 300px;
+           }
+
+
+           .swiper-slide img { 
+                    width: 60%;
+                    }
+  
+  .card-descricao{
+      display: flex;
+      justify-content: space-between;
+      margin-bottom: 0,5em;
+    }
+
+    .card-botoes{
+        display: flex;
+        justify-content: space-between;
+    }
+
+
+        .botoes{
+            display: flex;
+        }
+        .card{
+            background: var(--branco);
+            box-shadow: 0px 4px 4px rgb(23, 3, 134);
+            border-radius: 10px;
+            margin: 1em;
+            padding: 1em;
+        }
+        .decricao-titulo{
+            color: var(--laranja);
+            font-weight: 700;
+            text-align: center;
+        }
+        
