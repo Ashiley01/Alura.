@@ -154,9 +154,21 @@ body{
             margin: 1em;
             padding: 1em;
         }
-        .decricao-titulo{
+        .descricao-titulo{
             color: var(--laranja);
             font-weight: 700;
             text-align: center;
+         
         }
+    .descricao-texto{
+                text-align: center;
+                color: #002F52;
+            }
+            .descricao-titulo-livro{
+                text-align: center;
+            }
+            .botoes-item{
+                padding: 0.5em 0.5em;
+            }
+            
         
